@@ -3,7 +3,7 @@ bg{min-height:540px;}
 .bg1{background:url(../image/bg.jpg);min-height:535px;background-repeat: repeat-x;background-color: #202020;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;}
 @font-face {font-family: 'typo';src: url('../fonts/typo.ttf');}
 @font-face {font-family: 'gothic';src: url('../fonts/gothics.ttf');}
-.panel{border-color:#eee;margin:40px;padding:20px;font: 15px "Century Gothic", "Times Roman", sans-serif;}
+.panel{border-color:#eee;margin:5px;padding:10px;font: 15px "Century Gothic", "Times Roman", sans-serif;border-radius:10px;}
 .title{font-family:'typo';}
 .header{background:#202020;height:70px;}
 .logo{font-family:'typo';font-size:35px;color:white;margin:15px;}
